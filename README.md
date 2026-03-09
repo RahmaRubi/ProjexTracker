@@ -1,4 +1,4 @@
-# ConstructPortal — Construction Client Portal
+# ProjextTracker
 
 A full-stack MVP web application that allows companies and small businesses to manage projects, track tasks, share documents, and give clients real-time visibility into their project progress.
 
@@ -58,9 +58,11 @@ npm run seed
 ```bash
 cd frontend
 npm install
-```
+
 cd backend 
 npm install
+```
+
 
 ### 4. Start the frontend and backend servers simultaneously 
 npm start
