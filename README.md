@@ -48,14 +48,7 @@ A full-stack MVP web application that allows companies and small businesses to m
 ### 1. Clone the repository
 
 
-### 4. Install backend dependencies
-
-```bash
-cd backend
-npm install
-```
-
-### 5. Seed the database
+### 2. Seed the database
 
 ```bash
 cd backend
@@ -63,26 +56,7 @@ npm run seed
 # This creates 2 users, 3 projects, 5 tasks, and 2 document records
 ```
 
-### 6. Start the backend server
-
-```bash
-cd backend
-npm run dev       # Development (nodemon)
-# or
-npm start         # Production
-```
-
-The API will be available at `http://localhost:5000`.
-
-### 7. Configure the frontend
-
-```bash
-cd frontend
-cp .env.example .env.local
-# Verify NEXT_PUBLIC_API_URL=http://localhost:5000/api
-```
-
-### 8. Install frontend & backend dependencies
+### 3. Install frontend & backend dependencies
 
 ```bash
 cd frontend
@@ -91,5 +65,5 @@ npm install
 cd backend 
 npm install
 
-### 9. Start the frontend and backend servers simultaneously 
+### 4. Start the frontend and backend servers simultaneously 
 npm start
