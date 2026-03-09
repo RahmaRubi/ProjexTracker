@@ -31,9 +31,6 @@ A full-stack MVP web application that allows companies and small businesses to m
 
 ---
 
-## Project Structure
-
-```
 
 ## Prerequisites
 
@@ -43,7 +40,7 @@ A full-stack MVP web application that allows companies and small businesses to m
 
 ---
 
-## Installation
+## Project Setup
 
 ### 1. Clone the repository
 
